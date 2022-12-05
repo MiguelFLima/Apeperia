@@ -1,2 +1,4 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+just a landing page for a fictional app seller company
+
+# HTML 
+# CSS
